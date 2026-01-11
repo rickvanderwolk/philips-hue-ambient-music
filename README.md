@@ -2,7 +2,7 @@
 
 ![Preview](assets/preview-optimized.png)
 
-Listen to your home.
+Ambient music generator driven by Philips Hue.
 
 ## Setup
 
