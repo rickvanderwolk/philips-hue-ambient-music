@@ -7,15 +7,15 @@ Ambient music generator driven by Philips Hue.
 ## Setup
 
 ```bash
-pip install -r requirements.txt
+bash setup.sh
 ```
 
 ## Run
 
 ```bash
 # With Hue Bridge
-python main.py
+bash start.sh
 
 # Demo mode (no bridge needed)
-python main.py --mock
+bash start.sh --mock
 ```
